@@ -12,6 +12,14 @@ body{
     background-color: #fff;
 
 }
+.profile-card{
+    max-width: 370px;
+    width: 100%;
+    background: #fff;
+    border-radius: 24px;
+    padding: 25px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
 .image{
     position: relative;
     height: 150px;
